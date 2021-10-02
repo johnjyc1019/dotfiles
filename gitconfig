@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = johnjohnjohn1019@gmail.com
+	name = yuanchao jiang
